@@ -5,7 +5,7 @@ public class Project5 {
         float x;
         System.out.println("Enter  a number:");
         x=input.nextFloat();
-        System.out.format("%f\t%f\t%f",x,Math.pow(x,2),Math.pow(x,3));
+        System.out.format("%f\t%f\t%f",x,Math.pow(x,2),Math.pow(x,4));
 
 
     }
