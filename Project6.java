@@ -10,7 +10,6 @@ public class Project6 {
         System.out.format("first space %d\n",s.indexOf(" ")); // shows the first space in the sentence.
         System.out.format("ends with %s\n",s.endsWith("!"));
         System.out.format("ends with %s\n",s.endsWith("."));
-        System.out.format("ends with %s\n",s.endsWith("."));
 
     }
 }
